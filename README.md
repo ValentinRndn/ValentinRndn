@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Valentin Renaudin 
-- 👀 Je suis actuellement à la rechecher d'une alternance en développement WEB
-- 🌱 J'intègre une 3ème année de bachelor développeur web
+- 👋 Salut ! Moi c'est Valentin ! 
+- 👀 Je suis actuellement à la recheche d'une alternance en développement WEB
+- 🌱 J'intègre une 3ème année de bachelor développeur web l'année prochaine
 - 📫 Vous pouvez me contacter à l'adresse mail : valentinrenaudin2206@gmail.com
 
 <!---
