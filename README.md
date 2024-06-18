@@ -43,7 +43,7 @@
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
-
+[![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=54C5F8)](https://flutter.dev/)
 
 ## Quelques stats
 
