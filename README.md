@@ -11,10 +11,10 @@
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=CC6699)](https://tailwindcss.com)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38BDF8)](https://tailwindcss.com)
 
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=38BDF8)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
