@@ -21,6 +21,7 @@
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js&logoColor=00DC82)](https://expressjs.com/fr/)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=58C4DC)](https://fr.legacy.reactjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=CD37F0)](https://angular.dev/)
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=54C5F8)](https://flutter.dev/)
