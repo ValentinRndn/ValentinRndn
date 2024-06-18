@@ -5,7 +5,7 @@
 ## Me retrouver
 
 [![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/ValentinRndn)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/jarjatremi/](https://www.linkedin.com/in/valentin-renaudin-b908b8263/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/valentin-renaudin-b908b8263/])
 ## Languages et outils
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
