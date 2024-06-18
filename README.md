@@ -20,6 +20,9 @@
 
 
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=58C4DC)](https://fr.legacy.reactjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=CD37F0)](https://angular.dev/)
+
 
 
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
