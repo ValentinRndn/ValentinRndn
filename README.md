@@ -28,6 +28,8 @@
 [![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB&logoColor=003545)](https://mariadb.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=00ED64)](https://www.mongodb.com/fr-fr)
+
 
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
