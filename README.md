@@ -1,6 +1,6 @@
 # Bienvenue, moi c'est Valentin 👋
 
-- 📫 Contactez-moi sur (valentin-renaudin.com)
+[- 📫 Contactez-moi sur](valentin-renaudin.com)
 
 ## Me retrouver
 
